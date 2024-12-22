@@ -1,0 +1,8 @@
+# Setup nano
+set autoindent        # Enables auto-indentation
+set linenumbers       # Displays line numbers
+set tabsize 4         # Sets tab size to 4 spaces
+set softwrap          # Enables soft line wrapping
+
+# Include syntax files
+include /Users/Mora/.nano/*.nanorc

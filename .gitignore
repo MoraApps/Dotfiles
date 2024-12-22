@@ -1,0 +1,5 @@
+.ssh/
+.zsh_history
+.zsh_sessions
+.gitconfig
+.p10k.zsh
